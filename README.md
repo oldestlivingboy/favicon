@@ -1,6 +1,6 @@
 # favicon.js `1.3.0`
 
-Finds a website’s favicon URL, if any. Requires a context, like a browser
+Finds a website’s favicon URL if any. Requires a context, like a browser
 extension, that allows cross-origin requests.
 
 ## Example
@@ -22,7 +22,7 @@ extension, that allows cross-origin requests.
 
 ### Favicon([{string} alt])
 
-A class for finding a website’s favicon URL, if any.
+A class for finding a website’s favicon URL if any.
 
 #### Parameter
 
@@ -67,11 +67,12 @@ The favicon object.
 
 ## Author
 
-[Brian Kennish](https://github.com/byoogle)
+[Brian Kennish](https://github.com/oldestlivingboy)
 
 ## License
 
-Copyright 2012, 2013 Disconnect, Inc.
+Copyright 2012, 2013 Disconnect, Inc.  
+Copyright 2019 Brian Kennish
 
 This Source Code Form is subject to the terms of the Mozilla Public License, v.
 2.0. If a copy of the MPL was not distributed with this file, You can obtain one
